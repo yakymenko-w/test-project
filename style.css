@@ -1,0 +1,18 @@
+table, td, tr  {
+    border: solid 1px yellowgreen;
+}
+.hf{
+    color: green;
+}
+.fs{
+    color: red;
+}
+.af{
+    color: yellow;
+}
+body{
+    background-color: blue;
+}
+.dasd{
+    color: blueviolet;
+}
